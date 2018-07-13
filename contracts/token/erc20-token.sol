@@ -1,6 +1,6 @@
 pragma solidity ^0.4.17;
 
-import "./ierc20.sol";
+import "./ERC20Interface.sol";
 import "../math/SafeMath.sol";
 
 contract practiceToken is ERC20Interface{
